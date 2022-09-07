@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/FishSticks-stack/Wordle/blob/636137a53500bddc4463c84c7362c8d87b59abc2/wordleGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='wordleGif.gif'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
